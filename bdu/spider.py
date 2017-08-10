@@ -8,7 +8,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-from bdu.model import BDU_Student
+from model import BDU_Student
 
 
 class ZhengFangSpider:
